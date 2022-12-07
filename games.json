@@ -1,0 +1,7 @@
+[
+  {
+    "gamefolder": "game1",
+    "players": ["test", "test2"],
+    "args": "map_square.png 4"
+  }
+]

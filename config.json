@@ -1,0 +1,9 @@
+{
+  "server": "./server.exe",
+  "server_workdir": ".",
+  "players": {
+    "test": "python ./templates/python/player.py",
+    "test2": "python ./templates/python/player.py"
+  },
+  "timeout": 5
+}
